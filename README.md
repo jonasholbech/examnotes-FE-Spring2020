@@ -51,6 +51,8 @@ Since we have seen your solution, you are not **required** to show how it looks.
 ## Your preparation
 
 1. Prepare a presentation
+2. Have the solution open (or ready to npm start)
+3. Have your editor open
 
 You can continue working on fixing UI/UX/DEV issues, BUT
 
